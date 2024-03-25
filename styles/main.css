@@ -10,7 +10,7 @@
 }
 
 .container{
-    width: 70%;
+    width: 60%;
     margin: auto;
 }
 
@@ -50,6 +50,7 @@
     margin-top: 6em;
     /* margin: 6em 0; */
     justify-content: space-between;
+    align-items: center;
 }
 
 .hero-text{
@@ -75,17 +76,22 @@
     color: #f9faf8;
     background: #3882f6;
     font-size: 18px;
-    padding: 8px 30px;
+    padding: 10px 35px;
     border-radius: 10px;
     margin-top: 15px;
 }
 
 .hero-img{
     width: 50%;
+    height: auto;
 }
 
 .hero-img img{
     width: 100%;
-    height: 65%;
+    height: 70%;
+}
+
+.hero{
+    padding-bottom: 7rem;
 }
 
