@@ -157,3 +157,39 @@
 }
 
 
+.action-section{
+    padding: 7em 0;
+}
+
+.action-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    background: #3882f6;
+    padding: 3.5em 0;
+    border-radius: 10px;
+}
+
+.action-head{
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: 600;
+}
+
+.action-body{
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.action-btn a{
+    text-decoration: none;
+    padding: 10px 35px;
+    color: #f9faf8;
+    background: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
