@@ -193,3 +193,19 @@
     font-weight: 600;
 }
 
+.footer-section{
+    display: flex;
+    align-items: center;
+    padding: 3em 0;
+    background: #1f2937;
+}
+
+.footer{
+    text-align: center;
+}
+
+.footer p{
+    font-size: 18px;
+    color: #f9faf8;
+}
+
