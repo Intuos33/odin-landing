@@ -134,4 +134,26 @@
     color: #1f2937;
 }
 
+.quote-section{
+    padding: 8em 0;
+    background: #e5e7eb;
+}
+
+.quote-section .container{
+    width: 50%;
+}
+
+.quote-txt{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    font-weight: 300;
+}
+
+.author{
+    float: right;
+    font-size: 28px;
+    font-weight: 500;
+}
+
 
